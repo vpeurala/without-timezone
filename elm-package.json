@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "summary": "Dates and times without timezone.",
+    "repository": "https://github.com/vpeurala/without-timezone.git",
+    "license": "BSD3",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+      "LocalTime" 
+    ],
+    "dependencies": {
+        "elm-lang/core": "5.1.1 <= v < 6.0.0"
+    },
+    "elm-version": "0.18.0 <= v < 0.19.0"
+}
